@@ -1,0 +1,2 @@
+# trainy
+only for training
